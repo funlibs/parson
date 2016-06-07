@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/funlibs/parson.svg?branch=master)](https://travis-ci.org/funlibs/parson)
+[![Build status](https://ci.appveyor.com/api/projects/status/dl47lm71gxojoq90/branch/master?svg=true)](https://ci.appveyor.com/project/ssbx/parson/branch/master)
+
 ##About
 Parson is a lighweight [json](http://json.org) library written in C.
 
